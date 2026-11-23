@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="./project-scan.gif">
+  <img src="./project-static.png" width="1056" alt="UnHinged ASCII project diagram">
+</picture>
+
+Adjust the hinge pattern and dimensions, inspect the geometry, and export a millimeter-scale SVG for laser cutting.
+
 # UnHinged — Laser Cut Living Hinge SVG Generator
 
 An interactive, browser-based vector generator for creating precise **living hinges** for laser cutting. It generates clean, optimized SVG paths in real-time, allowing you to turn rigid materials like wood, acrylic, and cardboard into highly flexible curved structures.
